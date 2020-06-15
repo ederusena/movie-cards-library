@@ -6,11 +6,6 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 ---
 
-### Data de Entrega
-
-O projeto tem até a seguinte data: `08/06/2020 - 14:00h`. Para ser entregue a avaliação final.
-
-
 ## O que deverá ser desenvolvido
 
 Você deverá desenvolver uma biblioteca de cartões de filmes utilizando React. A biblioteca deverá possuir um cabeçalho e uma lista de cartões. Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinopse e avaliação. A biblioteca deverá ser algo parecido com a imagem abaixo.
